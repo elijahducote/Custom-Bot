@@ -1,0 +1,13 @@
+{
+  "name": "Custom Bot",
+  "description": "A custom Discord bot.",
+  "version": "0.0.1",
+  "main": "custom.js",
+  "scripts": {
+    "start": "node custom.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0"
+  }
+  
+}
