@@ -4,7 +4,7 @@ const client = new Discord.Client();
 client.on('message', (message) => {
 
   if(message.content == 'help') {
-      message.reply('How may I help you?');
+      message.reply('how may I help you?');
   }
 
 });
